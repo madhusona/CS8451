@@ -1,0 +1,16 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "cs8451",
+    "scope": "/CS8451/",
+    "display": "browser",
+    "start_url": "https://madhusona.github.io/CS8451/",
+    "short_name": "DAA",
+    "theme_color": "transparent",
+    "description": "notes",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": []
+}
