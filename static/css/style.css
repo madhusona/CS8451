@@ -64,6 +64,11 @@ buttons {
   transition: margin-left 0.2s;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
 @media (min-width: 768px) {
   #header {
     left: 200px;
